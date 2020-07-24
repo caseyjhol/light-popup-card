@@ -1,6 +1,6 @@
 import { LitElement, html, css } from 'lit-element';
 import tinycolor, { TinyColor, isReadable } from '@ctrl/tinycolor';
-import { closePopUp } from 'card-tools/src/popup';
+import { closePopUp } from 'lovelace-card-tools/src/popup';
 import {
   computeStateDisplay
 } from 'custom-card-helpers';
